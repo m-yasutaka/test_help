@@ -30,12 +30,12 @@
     line-height: 1.1
   }
 
-img.simple_format {
+.img_simple_format {
     width: 30px;
     height: 20px;
 }
 
-img.simple_format_meta {
+.img_simple_format_meta {
     width: 30px;
     height: 20px;
 }
