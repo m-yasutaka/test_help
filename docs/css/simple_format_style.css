@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+.simple_format h1 {
+    text-align: left;
+}
+
+.simple_format h2 {
+    text-align: left;
+}
+
+.simple_format p {
+    text-align: left;
+}
+
+.simple_format ul {
+    font-size: 18px;
+    margin-top: 0px;
+    text-align: left;
+}
+
+.simple_format span {
+    margin-left: 1rem;
+  }
+
