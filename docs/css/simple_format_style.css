@@ -39,11 +39,15 @@
   }
 
 .img_simple_format {
-    width: 50%;
+    width: 70%;
     height: auto;
 }
 
 .img_simple_format_meta {
-    width: 50%;
+    width: 70%;
     height: auto;
+}
+
+figcaption {
+    padding: 5px;
 }
